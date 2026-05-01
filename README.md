@@ -7,7 +7,7 @@ Currently improving:
 - Understanding of Core Computer Science like DBMS,CN,OS and Software Engineering
 Always open to learning, collaboration, and building meaningful projects and i am Eagerly waiting for apply all my key learnings on a read world applications
 
-<br>Experience: <br>Java Full Stack Developer Intern | Infosys Springboard<br>               
+<br>Experience: <br>Java Full Stack Developer Intern | Infosys Springboard            
 • Built an Intelligent Inventory Management System that automated manual stock tracking, reducing manual work by 
 60% and improving inventory accuracy by 35%. 
 • Designed and optimized the database to speed up inventory reports, reducing data retrieval time by around 40%. 
