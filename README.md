@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Keerthan Karthikeya vaggala , Currently pursuing Bachelor Degree <br>I have a strong Fundamental on Frontend Technologies , java , MySQL <br>Experience: <br>Currently Working as Java Intern in Infosys Springboard <br>
+<br>Experience: <br>Currently Working as Java Intern in Infosys Springboard <br>
 
 
 ## 🌐 Socials:
