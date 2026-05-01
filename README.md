@@ -9,8 +9,8 @@ Always open to learning, collaboration, and building meaningful projects and i a
 
 <br>Experience: <br>Java Full Stack Developer Intern | Infosys Springboard            
 • Built an Intelligent Inventory Management System that automated manual stock tracking, reducing manual work by 
-60% and improving inventory accuracy by 35%. 
-• Designed and optimized the database to speed up inventory reports, reducing data retrieval time by around 40%. 
+60% and improving inventory accuracy by 35%.<br>
+• Designed and optimized the database to speed up inventory reports, reducing data retrieval time by around 40%.
 • Delivered all features on time using a sprint-based approach, ensuring smooth workflow and zero delays in project 
 milestones. 
 • Developed real-time stock tracking and dashboards, reducing stock errors by 30% and improving overall system 
