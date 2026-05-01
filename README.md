@@ -1,5 +1,21 @@
 # 💫 About Me:
-<br>Experience: <br>Currently Working as Java Intern in Infosys Springboard <br>
+I am a final-year B.Tech student passionate about Java development and software engineering. I enjoy learning new technologies and applying them through hands-on projects.
+Currently improving:
+- Problem-solving skills using DSA
+- Database like MySQL
+- Java-based application development
+- Understanding of Core Computer Science like DBMS,CN,OS and Software Engineering
+Always open to learning, collaboration, and building meaningful projects and i am Eagerly waiting for apply all my key learnings on a read world applications
+
+<br>Experience: <br>Java Full Stack Developer Intern | Infosys Springboard                                       Nov 2025 – Feb 2026
+• Built an Intelligent Inventory Management System that automated manual stock tracking, reducing manual work by 
+60% and improving inventory accuracy by 35%. 
+• Designed and optimized the database to speed up inventory reports, reducing data retrieval time by around 40%. 
+• Delivered all features on time using a sprint-based approach, ensuring smooth workflow and zero delays in project 
+milestones. 
+• Developed real-time stock tracking and dashboards, reducing stock errors by 30% and improving overall system 
+efficiency by 45%.
+<br>
 
 
 ## 🌐 Socials:
